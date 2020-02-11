@@ -1,5 +1,7 @@
 # Multiple-label-Image-Classification-_-CNN
 
+Download Dataset : https://www.kaggle.com/neha1703/movie-genre-from-its-poster
+
  Build the Multiple label Image classification model using CNN to predict the movie genre by using their poster
 
 Objective: We have chosen a movie poster data from the year 1980 to 2015. Our ultimate goal is to build the model by using CNN to suggest the genre of the movie from the movie posters for an online platform like Wikipedia and Netflix. 
